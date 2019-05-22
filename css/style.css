@@ -31,6 +31,7 @@ ul li {
 a, a:hover, a:focus {
     text-decoration: none;
     outline: none;
+    color: #797979;
 }
 ::selection {
 
@@ -3490,3 +3491,4 @@ ul.chat-available-user li a:hover {
 
 .open>.dropdown-menu { left: -10em;}
 .notify-arrow-yellow { left: 10.5em;}
+.find-pw {float: right; margin:0.5em 0;}
